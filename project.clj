@@ -1,4 +1,4 @@
-(defproject ch.deepimpact/flowgic.graph "0.1.1-SNAPSHOT"
+(defproject ch.deepimpact/flowgic.graph "0.1.2-SNAPSHOT"
   :description "Graph your flow logic"
   :url "https://github.com/DEEP-IMPACT-AG/flowgic.graph"
   :license {:name "The MIT License"
